@@ -1,6 +1,4 @@
 - 👋 Hi, I’m sean
-- 👀 I’m interested in 
-- 🌱 I’m currently learning all things design and development
 - 📫 How to reach me geeks.liu@gmail.com
 
 <!---
